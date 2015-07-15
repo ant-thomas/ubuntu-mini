@@ -170,7 +170,8 @@ included.
         * Select the city or region corresponding to your time zone
 10. Add useful packages
     * 14.04
-        * `apt-get -y install sudo isc-dhcp-client udev netbase ifupdown iproute openssh-server iputils-ping wget net-tools wireless-tools wpasupplicant ntpdate ntp less tzdata console-common module-init-tools`
+        * `apt-get -y install dialog`
+        * `apt-get -y install sudo isc-dhcp-client udev netbase ifupdown iproute openssh-server iputils-ping wget net-tools wireless-tools wpasupplicant ntpdate ntp less tzdata console-common module-init-tools usbutils curl htop wavemon`
             * Country of origin for the keyboard
             * Keyboard layout
             * Select keymap from full list
